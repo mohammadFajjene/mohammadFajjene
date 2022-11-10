@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fajjene</h1>
 <h3 align="center">A passionate software Ingineer from German</h3>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" height="500"/>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450" height="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfajjene&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfajjene" /> </p>
 
