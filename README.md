@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fajjene</h1>
-<h3 align="center">A passionate software Ingineer from German</h3>
+<h3 align="center">A passionate software Ingineer from German <br> my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="350"/>
 
@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<p><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200" </p>
+<p><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="200" </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="350" height="200"/></p>
 
