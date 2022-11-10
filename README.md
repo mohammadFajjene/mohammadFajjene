@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fajjene</h1>
 <h3 align="center">A passionate software Ingineer from German <br> my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3><br>
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" height="300"/>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" height="300"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfajjene&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfajjene" /> </p>
@@ -45,7 +45,7 @@
    <a href="https://wa.me/00491729030489"  target="top">
   <img src="https://img.icons8.com/bubbles/100/000000/whatsapp.png" alt="text_me"/>
 </a>
-</div><br><br><br>
+</div><br>
 
 
 
