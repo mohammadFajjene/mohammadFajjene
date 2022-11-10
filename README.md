@@ -49,7 +49,7 @@
 
 
 
-<img <br> align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400" height="200"/>
+<p> <br><img  align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400" height="200"/></p>
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400" height="200" />
 
