@@ -56,7 +56,7 @@
 
 <p align="center"><img  alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="650" height="250"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadFajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="300" height="350"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadFajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="320" height="450"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadFajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
 
