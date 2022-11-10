@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfajjene&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfajjene" /> </p>
 
-
+<br>
 - 🔭 I’m currently working on [Freund Handelsgesellschaft mbh](https://www.freund-gmbh.com).
 
 - 🌱 I’m currently learning **Angular and React**.
@@ -52,7 +52,7 @@
 <p><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" alt="mohammadfajjene" /</p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfajjene&" alt="mohammadfajjene" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfajjene&" alt="mohammadfajjene" /></p>
 
