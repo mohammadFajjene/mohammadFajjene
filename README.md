@@ -45,12 +45,12 @@
    <a href="https://wa.me/00491729030489"  target="top">
   <img src="https://img.icons8.com/bubbles/100/000000/whatsapp.png" alt="text_me"/>
 </a>
-</div>
+</div><br><br><br>
 
 
 
-<p> <br><img  align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400" height="200"/></p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400" height="200" />
+<p> <br><br><br><br><br> <img  align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400" height="200"/></p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400" height="200" /><br>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
 
