@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fajjene</h1>
 <h3 align="center">A passionate software Ingineer from German <br> my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="430" height="300"/>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450" height="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfajjene&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfajjene" /> </p>
 
@@ -48,8 +48,8 @@
 </div><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400" height="300"/ <span><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" alt="mohammadfajjene"</span></p>
-<p> /</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400" height="300"/<span><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" alt="mohammadfajjene"</span></p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
