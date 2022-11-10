@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfajjene&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfajjene" /> </p>
 
-- 🔭 I’m currently working on [Freund Handelsgesellschaft mbh](https://www.freund-gmbh.com/)
+- 🔭 I’m currently working on [Freund Handelsgesellschaft mbh](https://www.freund-gmbh.com/).
 
-- 🌱 I’m currently learning **Angular and React**
+- 🌱 I’m currently learning **Angular and React**.
 
-- 💬 Ask me everything about **Programing**
+- 💬 Ask me everything about **Programing**.
 
-- 📫 How to reach me **mohammad.fajjene@gmail.com**
+- 📫 How to reach me **mohammad.fajjene@gmail.com**.
+
+- 🏡 Originally from land (Syrien, living in Siegen, Deutsch).
+
+- ⚡ Fun fact **I think I am funny**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
