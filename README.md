@@ -46,13 +46,12 @@
   <img src="https://img.icons8.com/bubbles/100/000000/whatsapp.png" alt="text_me"/>
 </a>
 </div>
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" alt="mohammadfajjene"/>
 
-<div>
-  
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="300" height="300"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfajjene&" alt="mohammadfajjene" /></p>
-</div>
+
 
 
