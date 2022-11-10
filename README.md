@@ -50,13 +50,10 @@
 
 
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfajjene&" alt="mohammadfajjene" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfajjene&" alt="mohammadfajjene" /></p>
 
-<p><img align="center" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="mohammadfajjene" width="420" height="200"/></p>
-
-
+<p>&nbsp;<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="mohammadfajjene" /></p>
