@@ -46,7 +46,7 @@
 
 <p><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="200" </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="350" height="250"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="450" height="550"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
 
