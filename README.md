@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fajjene</h1>
 <h3 align="center">A passionate software Ingineer from German <br> my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="330"/>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="430" height="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfajjene&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfajjene" /> </p>
 
@@ -31,17 +31,20 @@
 <div align="center">
   
   <a href="https://facebook.com/fabregas1000/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="fajjene-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-fajjene" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="fajjene-linkedin" />
   </a>
   <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="fajjene-instagram" />
   </a>
   <a href="mailto:mohammad.fajjene@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="fajjene-email" />
   </a>
+   <a href="https://wa.me/00491729030489"  target="top">
+  <img src="https://img.icons8.com/bubbles/100/000000/whatsapp.png" alt="text_me"/>
+</a>
 </div>
 
 
