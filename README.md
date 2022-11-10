@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fajjene</h1>
 <h3 align="center">A passionate software Ingineer from German <br> my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.</h3>
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" height="300"/>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" height="300"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfajjene&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfajjene" /> </p>
@@ -49,11 +49,21 @@
 
 
 
-<p> <br><br><br><br><br> <img  align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400" height="200"/></p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400" height="200" /><br>
 
+<p align="center" > <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="600" height="200" /></p>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="450" height="410"/>
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
 
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfajjene&" alt="mohammadfajjene" /></p>
+
+
+
+
+
+
+
+
+
 
 
