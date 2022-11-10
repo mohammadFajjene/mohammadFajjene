@@ -45,10 +45,10 @@
    <a href="https://wa.me/00491729030489"  target="top">
   <img src="https://img.icons8.com/bubbles/100/000000/whatsapp.png" alt="text_me"/>
 </a>
-</div>
+</div><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400" height="300"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400" height="300"/></p>
 <p><img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" alt="mohammadfajjene" /</p>
 
 
