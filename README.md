@@ -50,17 +50,15 @@
 
 
 
-<p align="center" > <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" width="400"height="200" /></p>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="250" height="410"/>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfajjene&" alt="mohammadfajjene" /></p>
 
 
 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfajjene&show_icons=true&locale=en&layout=compact" alt="mohammadfajjene" /></p>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350" height="410"/>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfajjene&show_icons=true&locale=en" alt="mohammadfajjene" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfajjene&" alt="mohammadfajjene" /></p>
 
 
 
