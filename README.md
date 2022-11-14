@@ -16,7 +16,7 @@
 
 - 🏡 Originally from land Syrien, living in Siegen, Deutsch.
 
-- ⚡ Fun fact **I think I am funny**.
+- ⚡ Fun fact **I think I am funny 😄**.
 
 
 
