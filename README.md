@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfajjene&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfajjene" /> </p>
 
-- 🔭 I’m currently working on [Freund Handelsgesellschaft mbh](https://www.freund-gmbh.com).
+- 🔭 I’m currently working on [Sij Group/Niro Wenden](https://www.niro-wenden.de/).
 
 - 🌱 I’m currently learning **Angular and React**.
 
